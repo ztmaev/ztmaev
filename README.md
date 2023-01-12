@@ -27,9 +27,9 @@ He/him
 
 ### 🧩 Interests
 
-- Currently making discord bots for fun (<img alt="Python" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />)
+- Currently making discord bots for fun.
 - I love videogames and im trying to get into moding.
-- I like interacting with API's and I want to make some fun
+- I like interacting with API's and I want to make some fun.
 
 <p align="right"><img src="https://skillicons.dev/icons?i=discord" /> maevwat#0247</p>
 
