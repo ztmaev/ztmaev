@@ -5,7 +5,7 @@ He/him
 
 ---
 
-<h1 align="center">🛠️ Languages </h1>
+<h3 align="center" >🛠️ Languages </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,11 +13,13 @@ He/him
   </a>
 </p>
 
-<h1 align="center">🛠️ Tools </h1>
+<h3 align="center">🛠️ Tools </h3>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unreal,unity,linux" />
+    <img src="https://skillicons.dev/icons?i=space,vscode,visualstudio,mongodb,unreal,unity,aws,linux," />
   </a>
 </p>
 
@@ -25,11 +27,12 @@ He/him
 
 ### 🧩 Interests
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
 - Currently making discord bots for fun (<img alt="Python" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />)
 - I love videogames and im trying to get into moding.
 - I like interacting with API's and I want to make some fun
+
+<p align="right"><img src="https://skillicons.dev/icons?i=discord" /> maevwat#0247</p>
+
 <!--
 **ztmaev/ztmaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
