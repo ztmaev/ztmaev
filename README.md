@@ -1,11 +1,11 @@
-### Maevwat
+<h3 color="purple">Maevwat</h3>
 He/him
 
 **`Software Engineer/web developer`**
 
 ---
 
-<h3 align="center" >🛠️ Languages </h3>
+<h3 align="center" >❔ Languages </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
