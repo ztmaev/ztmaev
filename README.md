@@ -28,7 +28,7 @@ He/him
 ### 🧩 Interests
 
 - Currently making discord bots for fun.
-- I love videogames and im trying to get into moding.
+- I love videogames and im trying to get into modding.
 - I like interacting with API's.
 
 <p align="right"><img src="https://skillicons.dev/icons?i=discord" /> maevwat#0247</p>
