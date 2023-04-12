@@ -1,5 +1,4 @@
 <h3 color="purple">Maevwat</h3>
-He/him
 
 **`Software Engineer/web developer`**
 
