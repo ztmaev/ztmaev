@@ -1,4 +1,4 @@
-<h3 color="purple">Maevwat</h3>
+<h3 color="purple">Maevwat | Ian Ndungu</h3> 
 
 **`Software Engineer/web developer`**
 
