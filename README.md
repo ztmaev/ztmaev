@@ -24,4 +24,4 @@
 
 ---
 
-<p align="right"><img src="https://skillicons.dev/icons?i=discord" /> maevwat#0247</p>
+<p align="right"><img src="https://skillicons.dev/icons?i=discord" /> @maevwat</p>
